@@ -1,0 +1,7 @@
+D:\HomeworkGB\HW-07\HW-07\obj\Debug\HW-07.csprojAssemblyReference.cache
+D:\HomeworkGB\HW-07\HW-07\obj\Debug\HW-07.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\HW-07\HW-07\bin\Debug\HW-07.exe.config
+D:\HomeworkGB\HW-07\HW-07\bin\Debug\HW-07.exe
+D:\HomeworkGB\HW-07\HW-07\bin\Debug\HW-07.pdb
+D:\HomeworkGB\HW-07\HW-07\obj\Debug\HW-07.exe
+D:\HomeworkGB\HW-07\HW-07\obj\Debug\HW-07.pdb
